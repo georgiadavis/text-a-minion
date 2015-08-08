@@ -1,0 +1,64 @@
+@import url(http://fonts.googleapis.com/css?family=Dosis:400,700);
+
+body{
+   background-size: cover;
+   font-family: 'Dosis', sans-serif;
+   color: #3E5092;
+   background-color: rgb(253,233,110);
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  margin: 100px auto;
+  width: 550px;
+  font-size: 1.4em;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+.number{
+  font-size: 1.1em;
+  border-radius: 4px;
+  padding: 7px;
+  background-color: #FFF;
+  border: 1px solid #FFF5B9;
+}
+
+.message{
+  font-size: 1.1em;
+  border-radius: 4px;
+  padding: 7px;
+  background-color: #FFF;
+  border: 1px solid #FFF5B9;
+  width: 275px;
+}
+
+.sender{
+  font-size: 1.1em;
+  border-radius: 4px;
+  padding: 7px;
+  background-color: #FFF;
+  border: 1px solid #FFF5B9;
+  width: 250px;
+}
+.btn {
+  background-color: #3E5092;
+  color: #E8EDFF;
+  border: none;
+  padding: 11px 42px;
+  font-size: 16px;
+  margin-top: 34px;
+  border-radius: 4px;
+}
+
+.minion_background{
+  position:fixed;
+  bottom:0px;
+  left:80%;
+}

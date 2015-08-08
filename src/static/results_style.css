@@ -1,0 +1,24 @@
+@import url(http://fonts.googleapis.com/css?family=Dosis:400,700);
+
+body{
+   font-family: 'Dosis', sans-serif;
+   background-color: rgb(252,232,118);
+
+}
+
+.minion_background{
+  position:fixed;
+  bottom:0px;
+  left:20%;
+}
+
+.container {
+  margin: 100px auto;
+  width: 550px;
+  font-size: 1.4em;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
